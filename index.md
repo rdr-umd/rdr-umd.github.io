@@ -1,7 +1,7 @@
 # Portfolio
 Here are some projects I've been working on: 
 
-## Python Projects
+## Python 
 
 <dl>
   <dt> <a href="https://mrrufs.github.io/Hot_100">Billboard Hot 100 Spotify Analytics Project</a> </dt>
@@ -21,6 +21,15 @@ Here are some projects I've been working on:
   <dd><i>in progress</i>
   <br>This is a toy project to make a working poker game. 
 <br></dd>
+</dl>
+
+---
+
+## Ruby
+
+<dl>
+<dt> <a href="https://github.com/rdr-umd/data-structures">Data Structures</a> </dt>
+<dd>Contains some standard data structures such as LinkedLists and Trees</dd>
 </dl>
 
 ---
